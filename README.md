@@ -7,9 +7,6 @@
 I build reliable, user-focused digital products—from polished interfaces  
 to scalable application logic and cross-platform mobile experiences.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parhamalamdari/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parhamalamdari)
-
 </div>
 
 ---
@@ -71,10 +68,4 @@ My background spans front-end development, back-end implementation, cross-platfo
 
 ## Let's Build Something Useful
 
-I'm interested in connecting with developers, product teams, and organizations building meaningful digital experiences. If you would like to collaborate or discuss an opportunity, feel free to reach out.
-
-<div align="center">
-
-### [Connect with me on LinkedIn](https://www.linkedin.com/in/parhamalamdari/)
-
-</div>
+I'm interested in connecting with developers, product teams, and organizations building meaningful digital experiences. If you would like to collaborate or discuss an opportunity, feel free to reach out through the contact link on my profile.
