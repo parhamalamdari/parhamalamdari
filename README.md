@@ -1,70 +1,80 @@
 <div align="center">
 
-# Hi, I'm Parham Alamdari 👋
+# Parham Alamdari
 
-### Full-Stack Developer | React, Flutter & Python
+### Full-Stack Developer · Web & Mobile
 
-Building thoughtful web and mobile experiences from front end to back end.
+I build reliable, user-focused digital products—from polished interfaces  
+to scalable application logic and cross-platform mobile experiences.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parhamalamdari/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parhamalamdari)
 
 </div>
 
-## About Me
+---
 
-I'm a Full-Stack Developer based in Denmark with hands-on experience across front-end, back-end, web, and mobile development. I enjoy turning ideas into reliable, user-friendly products and working across the entire development lifecycle—from interface design and application logic to deployment and ongoing improvement.
+## About
 
-- 💼 Working with **eSmiley Global**
-- 📍 Based in **Nivå, Capital Region of Denmark**
-- 🎓 Educated at **Kharazmi University**
-- 🌱 Continuously learning and improving my software engineering craft
-- 💬 Ask me about web development, mobile apps, React, Flutter, Python, and full-stack architecture
-- 🤝 Open to collaboration on meaningful web and mobile products
+I'm a product-minded Full-Stack Developer based in Denmark, working across web and mobile development. I enjoy transforming real-world requirements into maintainable software with intuitive interfaces, clear architecture, and thoughtful user experiences.
 
-## Tech Stack
+My background spans front-end development, back-end implementation, cross-platform mobile apps, web design, and technical support. I care about the details that make software dependable: readable code, responsive design, practical problem-solving, and continuous improvement.
 
-### Front End
+- **Current:** Building digital solutions with **eSmiley Global**
+- **Based in:** Nivå, Capital Region of Denmark
+- **Education:** Kharazmi University
+- **Focus:** Full-stack products, responsive web experiences, and cross-platform mobile apps
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+## Core Expertise
 
-### Mobile & Back End
+| Area | What I Work On |
+| --- | --- |
+| **Front End** | Responsive interfaces, reusable components, accessibility, and user experience |
+| **Back End** | Application logic, integrations, data flows, and maintainable architecture |
+| **Mobile** | Cross-platform applications built for consistent experiences across devices |
+| **Web Platforms** | Business websites, WordPress solutions, maintenance, and optimization |
+| **Technical Support** | Troubleshooting, networking, system support, and practical problem-solving |
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-
-## What I Do
-
-- Full-stack web application development
-- Responsive front-end development and UI implementation
-- Cross-platform mobile application development
-- Website design and development
-- Application maintenance, troubleshooting, and improvement
-- Computer networking and technical support
-
-## GitHub Activity
+## Technology
 
 <div align="center">
 
-![Parham's GitHub stats](https://github-readme-stats.vercel.app/api?username=parhamalamdari&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamalamdari&layout=compact&theme=transparent&hide_border=true)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Flutter](https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=54C5F8)
+![Dart](https://img.shields.io/badge/Dart-20232A?style=for-the-badge&logo=dart&logoColor=0175C2)
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
+![WordPress](https://img.shields.io/badge/WordPress-20232A?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-## Let's Connect
+## How I Work
 
-I'm always interested in connecting with developers, product-minded people, and teams building useful digital experiences.
+- Start with the user and the real problem—not just the implementation
+- Keep solutions clear, maintainable, and appropriate for the product
+- Communicate openly and turn complex requirements into practical next steps
+- Treat performance, responsiveness, and reliability as product features
+- Learn continuously and improve through feedback and iteration
 
-- [LinkedIn](https://www.linkedin.com/in/parhamalamdari/)
-- [GitHub](https://github.com/parhamalamdari)
+## GitHub Overview
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=parhamalamdari&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Parham's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parhamalamdari&layout=compact&hide_border=true&theme=transparent" alt="Parham's most used languages" />
+
+</div>
+
+## Let's Build Something Useful
+
+I'm interested in connecting with developers, product teams, and organizations building meaningful digital experiences. If you would like to collaborate or discuss an opportunity, feel free to reach out.
+
+<div align="center">
+
+### [Connect with me on LinkedIn](https://www.linkedin.com/in/parhamalamdari/)
+
+</div>
